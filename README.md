@@ -2,11 +2,11 @@
 
 Space Station 14 это ремейк SS13, который работает на собственном движке [Robust Toolbox](https://github.com/space-wizards/RobustToolbox), написанном на C#.
 
-Это репозиторий первого русскоязычного сервера по Space Station 14, целью которого является полный перевод игры на русский язык, поддержка актуальных изменений из основного репозитория, а так же добавление собственных изменений по необходимости.
+Это репозиторий первого русскоязычного сервера по Space Station 14, создание уникального сообщества со своими особенностями .
 
 ## Ссылки
 
-[Наш Discord](https://discord.station14.ru) | [Наша Вики](https://wiki.station14.ru) | [Steam](https://store.steampowered.com/app/1255460/Space_Station_14/) | [Клиент без Steam](https://spacestation14.io/about/nightlies/) | [Основной репозиторий](https://github.com/space-wizards/space-station-14)
+[Steam](https://store.steampowered.com/app/1255460/Space_Station_14/) | [Клиент без Steam](https://spacestation14.io/about/nightlies/) | [Основной репозиторий](https://github.com/space-wizards/space-station-14)
 
 ## Документация
 
@@ -14,8 +14,7 @@ Space Station 14 это ремейк SS13, который работает на 
 
 ## Контрибьют
 
-Мы рады принять вклад от любого человека. Заходите в Discord, если хотите помочь. У нас есть [список проблем](https://github.com/space-syndicate/space-station-14-content/issues), которые нужно решить, и любой может за них взяться. Не бойтесь просить о помощи!
-Только убедитесь, что ваши изменения и PRы соответствуют [руководству по контрибьюту](https://docs.spacestation14.com/en/general-development/codebase-info/pull-request-guidelines.html).
+Мы рады принять вклад от любого человека. Только убедитесь, что ваши изменения и PRы соответствуют [руководству по контрибьюту](https://docs.spacestation14.com/en/general-development/codebase-info/pull-request-guidelines.html).
 
 ## Сборка
 
